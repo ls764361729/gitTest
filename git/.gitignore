@@ -1,0 +1,19 @@
+**/target/
+
+# idea
+.idea/
+**/*.iml
+
+#eclipse
+**/.project
+**/.classpath
+**/.settings/
+
+#vscode
+.vscode/
+
+#log
+LOG*
+
+# build
+build
